@@ -1,4 +1,6 @@
-แน่นอน! ต่อไปนี้คือตัวอย่างการใช้งาน Kubernetes บน **Amazon EKS (Elastic Kubernetes Service)** โดยแสดงบทบาทของแต่ละองค์ประกอบที่คุณกล่าวถึง ได้แก่ `kube-proxy`, `CoreDNS`, `AWS CNI`, `EBS`, และ `EFS` พร้อมตัวอย่างที่เข้าใจง่าย:
+การใช้งาน Kubernetes บน **Amazon EKS (Elastic Kubernetes Service)** 
+
+โดยแสดงบทบาทของแต่ละองค์ประกอบที่คุณกล่าวถึง ได้แก่ `kube-proxy`, `CoreDNS`, `AWS CNI`, `EBS`, และ `EFS` พร้อมตัวอย่างที่เข้าใจง่าย:
 
 ---
 
